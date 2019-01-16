@@ -1,5 +1,5 @@
 {
-  "name": "firstapp",
+  "name": "dikodev-ionic",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "angular"
 }
